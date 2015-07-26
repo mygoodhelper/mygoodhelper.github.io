@@ -10,13 +10,3 @@
 *emphasize* or __emphasize__ (Cmd + I)
 
 # END
-
-Branch Master Confusion
-
-Branch Dev Confusion
-
-<<<<<<< HEAD
-Conflict Master
-=======
-Confict Dev
->>>>>>> dev
