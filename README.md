@@ -8,3 +8,5 @@
 ###Strong and Emphasize
 **strong** or __strong__ (Cmd + B)
 *emphasize* or __emphasize__ (Cmd + I)
+
+# END
