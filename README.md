@@ -12,3 +12,5 @@
 # END
 
 --no-ff
+
+Fast Forward
