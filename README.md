@@ -15,4 +15,8 @@ Branch Master Confusion
 
 Branch Dev Confusion
 
+<<<<<<< HEAD
 Conflict Master
+=======
+Confict Dev
+>>>>>>> dev
