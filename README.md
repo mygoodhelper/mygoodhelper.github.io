@@ -3,3 +3,8 @@
 
 ## Boov Info
 **Smart Friendly Cute Crazy**
+
+##Syntax
+###Strong and Emphasize
+**strong** or __strong__ (Cmd + B)
+*emphasize* or __emphasize__ (Cmd + I)
